@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#board {
+    background-image: url("Images/flappybirdbg.png");  
+    margin-top: 18px;
+    border-radius: 5px;
+}
+
+.bg {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
