@@ -1,0 +1,1 @@
+ I’m excited to share my version of the classic Flappy Bird game that I built using JavaScript. It’s a simple project, but I had a lot of fun putting it together, and I hope you’ll enjoy playing it as much as I enjoyed making it!
